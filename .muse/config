@@ -1,1 +1,2 @@
 customTools = [ ".muse/mock-tool.sh" ]
+tools = [ ".muse/mock-tool.sh" ]
