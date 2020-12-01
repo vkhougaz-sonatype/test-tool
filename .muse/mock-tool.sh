@@ -20,7 +20,7 @@ function run() {
 
 BUG_PATTERN="#bug:(.*?) - (.*)"
 FILE_PATTERN="(.*?):([0-9]*):$BUG_PATTERN"
-SUB_EXPRESSION='{"file": "\1","line": "\2","type": "\3","message": "\4"}'
+SUB_EXPRESSION='{"file": "\1","line": \2,"type": "\3","message": "\4"}'
 
 if [[ "$cmd" = "run" ]] ; then
 	run
