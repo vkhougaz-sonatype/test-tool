@@ -1,3 +1,4 @@
 #bug:BOGUS_ERROR - this error has a tool note
 this line is ignored
 #bug:BOGUS_ERROR2 - this error has a [markdown](https://muse.dev/) tool note
+#bug:BOGUS_ERROR3 - buggy bug
