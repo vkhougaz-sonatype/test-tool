@@ -1,3 +1,5 @@
 #bug:BOGUS_ERROR - this error has a tool note
 this line is ignored
 #bug:BOGUS_ERROR2 - this error has a [markdown](https://muse.dev/) tool note
+
+#bug:BOGUS_ERROR0 - This error has a really long message. I repeat, the message that this error displays is so large that hopfully it will overflow the 3 line limit. This tool is extremely verbose and includes a lot of extra information about the nature of the bogus error that it found. Despite the bogus nature of the error, it must be reported in full. Ok I got bored now: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
